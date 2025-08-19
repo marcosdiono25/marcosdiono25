@@ -6,20 +6,40 @@
 
 ---
 
-## 🔥 Meus Projetos
+## 🔥 Sobre este repositório
+
+Este repositório é mais antigo que o projeto **TecNordeste** e representa o início de um sonho que vai muito além.  
+Ele possui **pouca documentação do código em si**, pois o principal objetivo é **incentivar jovens a aprenderem, explorarem e documentarem** em aulas práticas.  
+Se você é curioso ou está começando na área de QA, este é o lugar perfeito para se inspirar e praticar.
+
+---
+
+## 🚀 Meus Projetos
 
 | Projeto | Descrição |
 |---------|-----------|
-| TecNordeste | Projeto social de QA para jovens, ensinando práticas de teste de software |
-| Disk Carência | Projeto em desenvolvimento para organização de conteúdo digital voltado para música |
+| TecNordeste | Projeto social de QA, ensinando jovens sobre testes e práticas de desenvolvimento |
+| Disk Carência | Organização e desenvolvimento de conteúdo digital voltado para música(desenvolvendo)|
 
 ---
 
-## 🚀 Status do GitHub
+## 🎨 Status e Métricas
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosDiono&theme=radical)
-![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDiono&layout=compact&theme=radical)
 
 ---
 
-💡 **Curiosidade:** sabia que música é minha 3ª paixão? Vai no Spotify e busque **Marcos Dionnoa**
+## 💡 Curiosidade
+
+Sabia que **música é minha 3ª paixão**? Vai no Spotify e busque **Marcos Dionnoa** 🎵
+
+---
+
+## 📌 Contribua
+
+Se você quiser explorar o código e aprender, sinta-se à vontade para:  
+- Clonar este repositório  
+- Experimentar os scripts e testes  
+- Documentar o que achar interessante  
+
+Este é um espaço **para aprender fazendo** e crescer juntos.
