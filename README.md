@@ -40,7 +40,7 @@ Sabia que **música é minha 3ª paixão**? Vai no Spotify e busque **Marcos Dio
 ## 📌 Contribua
 
 Se você quiser explorar o código e aprender, sinta-se à vontade para:  
-- Clonar este repositório  
+- Clonar o repectivo repositório  
 - Experimentar os scripts e testes  
 - Documentar o que achar interessante  
 
