@@ -24,8 +24,8 @@ Se você é curioso ou está começando na área de QA, este é o lugar perfeito
 ---
 
 ## 🎨 Status e Métricas
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDiono&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosDiono&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosDiono&theme=radical)
 
