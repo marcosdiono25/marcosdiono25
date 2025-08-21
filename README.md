@@ -1,6 +1,8 @@
-# 👋 Olá, eu sou MarcosDiono
+# 👋 Olá, eu sou Marcosdiono
 
-![Banner](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+> “A beleza da dificuldade é apreciar o nascimento da arte.  
+> E sonhar com sua arte não é utopia, é necessidade.”  
+> – Marcosdiono
 
 🎯 QA Automation | Analista de Testes | Projetos Open Source
 
@@ -40,7 +42,7 @@ Sabia que **música é minha 3ª paixão**? Vai no Spotify e busque **Marcos Dio
 ## 📌 Contribua
 
 Se você quiser explorar o código e aprender, sinta-se à vontade para:  
-- Clonar o repectivo repositório  
+- Clonar o repositório  
 - Experimentar os scripts e testes  
 - Documentar o que achar interessante  
 
